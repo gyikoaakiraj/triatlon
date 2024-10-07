@@ -1,0 +1,2 @@
+C:\Users\gyiko.patrik\Desktop\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.AssemblyReference.cache
+C:\Users\gyiko.patrik\Desktop\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.CoreCompileInputs.cache
